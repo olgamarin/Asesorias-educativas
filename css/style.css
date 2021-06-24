@@ -1,0 +1,88 @@
+
+
+
+body{
+background-color:palevioletred;
+background-image:
+radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+}
+
+p{
+
+	padding: 20px;
+}
+
+h1 {
+	text-align: center;
+	color: white ;
+	font-family: Arial; font-size: 42; font-style: normal; 
+	margin
+
+} 
+
+h2 {
+	text-align: center;
+	font-family: verdana; font-size: 35; font-style: normal;
+}
+
+h3{
+	text-align: center;
+	font-family: verdana font-size: 30; font-style: normal;
+}
+
+h6{
+
+	text-align: center;
+}
+
+/*Este es mi menu principal */
+#menu{
+	background-color: lightsalmon;
+	opacity: 50%;
+	width: 50%;
+	margin-left: 25%;
+}
+
+
+/*Aqui es donde coloco el menu horizontal */
+nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+
+}
+
+
+img {
+margin: auto;
+display: block;
+}
+
+
+.center{
+	margin-left: 35%;
+	margin-bottom: 1%;
+}
+
+.center1 {
+	margin-left: 45%;
+}
+
+.cajabase {
+	background-color: #ffffff;
+	width: 49%;
+	margin-top: auto;
+	display: inline-block;
+}
+
+.cajabase2 {
+	background-color: #ffffff;
+	width: 49%;
+	margin-top: auto;
+	display: inline-block;
+}
